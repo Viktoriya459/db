@@ -67,19 +67,7 @@
       "stars": 3,
       "category": 5
    },
-   {
-      "id": 9,
-      "badge": {
-         "title": "Sold",
-         "bg": "primary"
-      },
-      "image": "https://Viktoriya459.github.io/images/9.jpg",
-      "name": "Іграшка",
-      "price": 551,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "stars": 5,
-      "category": 5
-   },
+
    {
       "id": 10,
       "badge": {
