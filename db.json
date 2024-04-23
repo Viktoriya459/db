@@ -11,7 +11,7 @@
       "price": 250,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 2,
-      "category": 1
+      "category": 3
    },
    {
       "id": 2,
@@ -24,7 +24,7 @@
       "price": 303,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 5,
-      "category": 2
+      "category": 3
    },
    {
       "id": 3,
@@ -37,7 +37,7 @@
       "price": 25,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 4,
-      "category": 3
+      "category": 2
    },
    {
       "id": 4,
@@ -50,7 +50,7 @@
       "price": 151,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 1,
-      "category": 1
+      "category": 2
    },
    {
       "id": 5,
@@ -63,7 +63,7 @@
       "price": 150,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 0,
-      "category": 4
+      "category": 2
    },
    {
       "id": 6,
@@ -76,7 +76,7 @@
       "price": 311,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 5,
-      "category": 5
+      "category": 2
    },
    {
       "id": 7,
@@ -89,7 +89,7 @@
       "price": 35,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 4,
-      "category": 6
+      "category": 1
    },
    {
       "id": 8,
@@ -102,7 +102,7 @@
       "price": 425,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 3,
-      "category": 4
+      "category": 5
    },
    {
       "id": 9,
@@ -115,7 +115,7 @@
       "price": 551,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 5,
-      "category": 4
+      "category": 5
    },
    {
       "id": 10,
@@ -128,7 +128,7 @@
       "price": 166,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 0,
-      "category": 1
+      "category": 4
    },
    {
       "id": 11,
@@ -141,7 +141,7 @@
       "price": 123,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 5,
-      "category": 5
+      "category": 4
    },
    {
       "id": 12,
@@ -154,7 +154,7 @@
       "price": 100,
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
       "stars": 2,
-      "category": 1
+      "category": 4
    }
 ],
 
@@ -164,45 +164,32 @@
       "id": 1,
       "image": "https://Viktoriya459.github.io/images/accessories.jpg",
       "section": "Аксесуари",
-      "name": "Аксесуари"
+      "name": "Окуляри"
    },
    {
       "id": 2,
-      "name": "Одяг",
+      "name": "Плаття",
       "image": "https://Viktoriya459.github.io/images/clothes.jpg",
       "section": "Одяг"
    },
    {
       "id": 3,
       "image": "https://Viktoriya459.github.io/images/shoes.jpg",
-      "name": "Взуття",
+      "name": "Туфлі",
       "section": "Взуття"
    },
    {
       "id": 4,
       "image": "https://Viktoriya459.github.io/images/goods-for-childroom.jpg",
-      "name": "Для кімнати",
+      "name": "Килим",
       "section": "Для кімнати"
    },
    {
       "id": 5,
       "image": "https://Viktoriya459.github.io/images/toys.jpg",
-      "name": "Іграшки",
+      "name": "Пірамідка",
       "section": "Іграшки"
-   },
-   {
-      "id": 6,
-      "image": "https://Viktoriya459.github.io/images/toys.jpg",
-      "name": "Іграшки",
-      "section": "Іграшки"
-   },
-   {
-      "id": 7,
-      "image": "https://Viktoriya459.github.io/images/goods-for-childroom.jpg",
-      "name": "Для кімнати",
-      "section": "Для кімнати"
-   }
-   
+   }   
 ],
  {
 "posts": [{
