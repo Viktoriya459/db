@@ -190,47 +190,5 @@
       "name": "Пірамідка",
       "section": "Іграшки"
    }   
-],
- {
-"posts": [{
-        "id": "1",
-        "title": "Що таке Lorem Ipsum?",
-        "content": "Lorem Ipsum - це текст-риба, що використовується в друкарстві та дизайні.",
-        "cover":	"https://Viktoriya459.github.io/images/111.jpg",
-        "authorId": 2,
-        "datePublished": 1712002031418,
-        "numComments": 2,
-        "likes": 7
-}, 
-{
-        "id": "2",
-        "title": "Чому ми ним користуємось?",
-        "content": "Вже давно відомо, що читабельний зміст буде заважати зосередитись людині, яка оцінює композицію сторінки.",
-        "cover":	"https://Viktoriya459.github.io/images/112.jpg",
-        "authorId": 1,
-        "datePublished": 1712102031418,
-        "numComments": 1,
-        "likes": 14
-    }, 
-    {
-        "id": "3",
-        "title": "Звідки він походить?",
-        "content": "На відміну від поширеної думки Lorem Ipsum не є випадковим набором літер.",
-        "cover":	"https://Viktoriya459.github.io/images/113.jpg",
-        "authorId": 1,
-        "datePublished": 1712132031418,
-        "numComments": 4,
-        "likes": 7
-    }, 
-    {
-        "id": "4",
-        "title": "Де собі взяти трохи?",
-        "content": "Існує багато варіацій уривків з Lorem Ipsum, але більшість з них зазнала",
-        "cover":	"https://Viktoriya459.github.io/images/114.jpg",
-        "authorId": 2,
-        "datePublished": 1712234031785,
-        "numComments": 4,
-        "likes": 7
-    }
 ]
 }
