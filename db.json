@@ -13,19 +13,7 @@
       "stars": 2,
       "category": 3
    },
-   {
-      "id": 2,
-      "badge": {
-         "title": "",
-         "bg": ""
-      },
-      "image": "https://Viktoriya459.github.io/images/2.jpg",
-      "name": "Сандалі",
-      "price": 303,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "stars": 5,
-      "category": 3
-   },
+
    {
       "id": 3,
       "badge": {
@@ -39,32 +27,7 @@
       "stars": 4,
       "category": 2
    },
-   {
-      "id": 4,
-      "badge": {
-         "title": "",
-         "bg": ""
-      },
-      "image": "https://Viktoriya459.github.io/images/4.jpg",
-      "name": "Юбка",
-      "price": 151,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "stars": 1,
-      "category": 2
-   },
-   {
-      "id": 5,
-      "badge": {
-         "title": "Sale",
-         "bg": "primary"
-      },
-      "image": "https://Viktoriya459.github.io/images/5.jpg",
-      "name": "Шорти",
-      "price": 150,
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-      "stars": 0,
-      "category": 2
-   },
+
    {
       "id": 6,
       "badge": {
