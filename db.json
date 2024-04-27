@@ -17,7 +17,7 @@
       "id": 2,
       "badge": {
          "title": "",
-         "bg": ""
+         "bg": "primary"
       },
       "image": "https://Viktoriya459.github.io/images/2.jpg",
       "name": "Сандалі",
@@ -43,7 +43,7 @@
       "id": 4,
     "badge": {
        "title": "",
-       "bg": ""
+       "bg": "primary"
     },
     "image": "https://Viktoriya459.github.io/images/4.jpg",
     "name": "Юбка",
@@ -69,7 +69,7 @@
       "id": 6,
       "badge": {
          "title": "",
-         "bg": ""
+         "bg": "primary"
       },
       "image": "https://Viktoriya459.github.io/images/6.jpg",
       "name": "Штани",
@@ -95,7 +95,7 @@
       "id": 8,
       "badge": {
          "title": "",
-         "bg": ""
+         "bg": "primary"
       },
       "image": "https://Viktoriya459.github.io/images/8.jpg",
       "name": "Пірамідка",
