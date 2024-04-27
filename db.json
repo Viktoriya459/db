@@ -189,6 +189,48 @@
       "image": "https://Viktoriya459.github.io/images/toys.jpg",
       "name": "Пірамідка",
       "section": "Іграшки"
+   },
+   {
+      "id": 6,
+      "image": "https://Viktoriya459.github.io/images/shoes.jpg",
+      "name": "Сандалі",
+      "section": "Взуття"
+   },
+   {
+      "id": 7,
+      "image": "https://Viktoriya459.github.io/images/clothes.jpg",
+      "name": "Юбка",
+      "section": "Одяг"
+   },
+   {
+      "id": 8,
+      "image": "https://Viktoriya459.github.io/images/clothes.jpg",
+      "name": "Шорти",
+      "section": "Одяг"
+   },
+   {
+      "id": 9,
+      "image": "https://Viktoriya459.github.io/images/clothes.jpg",
+      "name": "Штани",
+      "section": "Одяг"
+   },
+   {
+      "id": 10,
+      "image": "https://Viktoriya459.github.io/images/toys.jpg",
+      "name": "Іграшка",
+      "section": "Іграшки"
+   },
+   {
+      "id": 11,
+      "image": "https://Viktoriya459.github.io/images/goods-for-childroom.jpg",
+      "name": "Ліжко",
+      "section": "Для кімнати"
+   },
+   {
+      "id": 12,
+      "image": "https://Viktoriya459.github.io/images/goods-for-childroom.jpg",
+      "name": "Стіл",
+      "section": "Для кімнати"
    }
 ],
        "authors": [
